@@ -109,6 +109,6 @@ word "Kuno" show up in the short story? (Type your answers here.)
 
 ## Stretch Goals
 
-* Play Tetris in Emacs.
-* How do you turn on line numbering in Vi? Emacs?
-* Explore the Emacs file browser mode.
+* Play Tetris in Emacs. Add a screenshot of you playing Tetris in Emacs to this repository (possibly using SCP to transfer the file, or uploading the file in another way).
+* How do you turn on line numbering in Vi? Emacs? (Type your answer here.)
+* Explore the Emacs file browser mode. Describe how it works here.
