@@ -105,7 +105,16 @@ ServerName www.unix.org
 * In the short story "The Machine Stops" (contained in the
 `the_machine_stops.txt` file), the main characters are Vishta and Kuno. How many
 times does the word "Vishta" show up in the short story? How many times does the
-word "Kuno" show up in the short story? (Type your answers here.)
+word "Kuno" show up in the short story? Add your word frequency counts to the `wordFrequency.json`
+in each of the working directories. (Be sure to count the unique `the_machine_stops.txt` file in 
+EACH directory -- they are not the same!)
+
+* Create a file in the root of this repository (the same level as this `README.md` file) called 
+`favorite.md` and write a statement about which editor you prefer. Be sure to discuss what you like
+and dislike about the editor, and give some sense of your evaluation compared to the other text
+editors you've tried in this project. (Obviously, you should use your favorite editor to create,
+edit, and save this file. Please also feel free to use Markdown formatting and links to enhance
+your text.)
 
 ## Stretch Goals
 
